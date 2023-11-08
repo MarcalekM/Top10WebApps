@@ -1,0 +1,32 @@
+tr:nth-child(odd){
+    background-color: black;
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: white;
+    color: black;
+}
+
+th, td{
+    padding: 10px;
+    text-align: left;
+    padding: 10px;
+
+}
+
+body{
+    background-color: grey;
+}
+
+.container{
+    width: 60%;
+    background: lightgray;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+button{
+    margin: 5px;
+}
